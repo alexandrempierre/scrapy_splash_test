@@ -1,0 +1,11 @@
+# venv
+[Bb]in/
+[Ii]nclude/
+[Ll]ib/
+[Ss]hare/
+[Ll]ib64
+pyvenv.cfg
+
+# python
+__pycache__/
+*.py[cio]
