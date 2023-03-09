@@ -88,7 +88,7 @@ ITEM_PIPELINES = {
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
 
 # Splash Server Endpoint
-SPLASH_URL = 'http://192.168.1.6:8050'
+iSPLASH_URL = 'http://localhost:8050'
 
 
 # Enable Splash downloader middleware and change HttpCompressionMiddleware priority
