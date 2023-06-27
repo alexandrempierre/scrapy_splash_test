@@ -8,5 +8,5 @@ If scrapy is installed globally it won't prioritize the one in the venv.
 
 # sources
 
-* [https://github.com/scrapy-plugins/scrapy-splash]()
-* [https://scrapeops.io/python-scrapy-playbook/scrapy-splash/]()
+* [https://github.com/scrapy-plugins/scrapy-splash](https://github.com/scrapy-plugins/scrapy-splash)
+* [https://scrapeops.io/python-scrapy-playbook/scrapy-splash/](https://scrapeops.io/python-scrapy-playbook/scrapy-splash/)
